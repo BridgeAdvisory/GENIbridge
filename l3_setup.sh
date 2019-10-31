@@ -7,11 +7,11 @@ RTR1="cooperdd@pcvm2-17.instageni.illinois.edu -p 22"
 NODE11="cooperdd@pc2.instageni.illinois.edu -p 27011"
 NODE12="cooperdd@pc2.instageni.illinois.edu -p 27012"
 
-RTR2="cooperdd@pc1.geni.it.cornell.edu -p 22"
+RTR2="cooperdd@pcvm3-18.geni.it.cornell.edu -p 22"
 NODE21="cooperdd@pc1.geni.it.cornell.edu -p 30410"
 NODE22="cooperdd@pc1.geni.it.cornell.edu -p 30411"
 
-RTR3="cooperdd@pc2.instageni.idre.ucla.edu -p 22"
+RTR3="cooperdd@pcvm1-14.instageni.idre.ucla.edu -p 22"
 NODE31="cooperdd@pc2.instageni.idre.ucla.edu -p 28210"
 NODE32="cooperdd@pc2.instageni.idre.ucla.edu -p 28211"
 
