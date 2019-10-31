@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # add -f to run ssh in background, parallellize
-SSH="ssh -o StrictHostKeyChecking=no"
+SSH="ssh -i id_geni_ssh_rsa "
 
 RTR1="cooperdd@pcvm2-17.instageni.illinois.edu -p 22"
 NODE11="cooperdd@pc2.instageni.illinois.edu -p 27011"
